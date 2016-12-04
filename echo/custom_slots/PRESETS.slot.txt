@@ -11,3 +11,8 @@ party
 metal
 everything
 alt rock
+celtic
+soundtrack
+reggae
+ska
+world
